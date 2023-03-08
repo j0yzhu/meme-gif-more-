@@ -1,6 +1,6 @@
 # STATS 220
 This is my repository for my **STATS 220** course.
-1. Project 1
+1. Project 1- creating a meme, gif & more!
 
 ## What I use this repository for
 * Practicing R
