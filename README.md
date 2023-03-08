@@ -1,8 +1,8 @@
 # STATS 220
-This is my repository for my **STATS 220** course.
+This is my repository for my *super* fun **STATS 220** course.
 1. Project 1- creating a meme, gif & more!
 
-## What I use this repository for
+## What I will use this repository for
 * Practicing R
 * Using RStudio 
 * HTML
